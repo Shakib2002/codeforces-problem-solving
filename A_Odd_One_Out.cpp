@@ -14,6 +14,7 @@ using namespace std;
         cout<<b<<endl;
         else if(b==c)
         cout<<a<<endl;
+   
      }
   return 0;
  }
