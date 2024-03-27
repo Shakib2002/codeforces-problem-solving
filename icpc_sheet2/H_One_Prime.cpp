@@ -11,7 +11,7 @@ using namespace std;
         }
      }
      cout<<"YES"<<endl;
-      
+   //loop
 
   return 0;
  }
